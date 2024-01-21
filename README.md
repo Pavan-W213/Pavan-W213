@@ -1,10 +1,12 @@
+![logo](https://github.com/Pavan-W213/Pavan-W213/blob/main/Github_banner.png)
+
 Hey there, I'm Pavan Waghmare, a tech enthusiast and  Magento & Frontend Developer from Pune, Maharashtra, India. With 1+ years of experience in Web Development, I've honed my skills using a variety of technologies such as Magento 2, React.js, JavaScript, jQuery,  Bootstrap, CSS3, Sass, HTML5, Git and GitHub.
 
 Apart from my work, I'm deeply passionate about Artificial Intelligence, Cyber Security and Backend Development. I believe that the future of technology lies in these fields and I'm always excited to learn more and explore new possibilities.
 
 In addition to my technical expertise is share my knowledge with others. Whether you're a begginner or an experienced developer, I'm always happy to help and answer any questions you might have.
 
-I hold a Bachelor's degree in Bachelor Of Science (B.Sc) and I'm currently working as an Magento and Frontend Developer. However, I strongly believe that collaboration is the key to achieving great things in tech, and I'm always eager to work with others who share my passion for innovation.
+I hold a Bachelor's degree in Bachelor Of Science (B.Sc) and I'm currently working as an Magento & Frontend Developer. However, I strongly believe that collaboration is the key to achieving great things in tech, and I'm always eager to work with others who share my passion for innovation.
 
 Let's connect and create something amazing together!
 
